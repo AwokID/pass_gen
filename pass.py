@@ -1,4 +1,4 @@
-# Seperti biasa import doeloe :v
+# Import
 import random, string, time, os, sys
 
 # buat banner
@@ -24,4 +24,7 @@ for i in range(panjang_pass):
   password.append(random.choice(pass_karakter))
 
 # Menampilkan pass + menghilangkan tampilan awal yang masih berbentuk list
-print(''.join(password))
+print("")
+print("Hasil: ",''.join(password))
+
+# Untuk update ditunggu saja :)
