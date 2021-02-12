@@ -10,6 +10,6 @@ Random password generator using python3
 - apt update && apt upgrade
 - apt install python
 - apt install git
-- git clone https://github.com/AwokID/pass_gen
+- git clone https://github.com/DavitID/pass_gen
 - cd pass_gen
 - python pass.py
