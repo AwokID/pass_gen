@@ -3,7 +3,7 @@
 Random password generator using python3
 
 ### Screenshots
-<img src="https://j.top4top.io/p_18433s6zi0.png">
+<img src="demo.png">
 
 ### Installation
 
